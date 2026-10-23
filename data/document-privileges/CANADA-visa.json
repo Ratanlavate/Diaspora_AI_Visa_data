@@ -12,7 +12,8 @@
     "description": "Valid Canadian visas can unlock visa-free or simplified access beyond passport privileges"
   },
   "lastUpdated": "2026-10-18",
-  "totalUnlocked": 2,
+  "totalUnlocked": 5,
+  "lastUpdated": "2026-10-23",
   "unlocks": [
     {
       "country": "GE",
@@ -68,6 +69,68 @@
         "notes": "The source lists a valid Canadian multiple-entry visa or Canadian Permanent Residence Card as alternative qualifying documents in the same bullet; this entry records only the visa route. The exemption list does not impose a passport-nationality restriction."
       },
       "notes": "This entry covers the Canadian multiple-entry visa exemption, not permanent residence or Canadian eTA. A visa waiver does not waive other admission requirements or guarantee 30 days. Staying beyond the initial 30 days requires the appropriate Belize visitor permit extension."
+    },
+    {
+      "country": "ME",
+      "countryName": "Montenegro",
+      "region": "europe",
+      "conditions": "Holders of valid foreign travel documents with a valid visa of Canada may enter, transit through and stay in Montenegro for up to 30 days, and no longer than until the expiry of the visa if the visa validity is less than 30 days.",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.me/en/article/visas",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "Government of Montenegro > Ministry of Foreign Affairs > Visas > Do I need a visa for Montenegro? (bullet listing visa holders)",
+        "exactQuote": "Holders of valid foreign travel documents with a valid Schengen visa, a valid visa of the Commonwealth of Australia, the Republic of Bulgaria, Japan, Canada, New Zealand, the Republic of Ireland, Romania, the United States of America Nationals of the United Kingdom of Great Britain and Northern Ireland may enter, transit through and stay in Montenegro for up to 30 days, and no longer than until the expiry of the visa, if the validity of the visa is less than 30 days.",
+        "maximumStayQuote": "up to 30 days",
+        "notes": "Applies to holders of valid foreign travel documents with a valid Canadian visa (the provision lists Canada among qualifying visa-issuing countries)."
+      },
+      "notes": "Visa must be valid on entry; stay limited to up to 30 days or until visa expiry if shorter. Other entry requirements may apply."
+    },
+    {
+      "country": "PA",
+      "countryName": "Panama",
+      "region": "central_america",
+      "conditions": "Holders of a valid visa or valid residence of Canada (among listed countries) are exempt from the tourist visa requirement to enter Panama.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.migracion.gob.pa/plantilla-tramite-migratorio-v-tet-variante-273-borrador-2/",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "Servicio Nacional de Migración Panamá > Plantilla trámite migratorio > EXCEPCIÓN (Decreto Ejecutivo N°521 de 6 de agosto de 2018, modificado por Decreto Ejecutivo N°196 de 28 de octubre de 2024)",
+        "exactQuote": "se suprime el requisito de Visa a toda persona de nacionalidad que requiera visa para ingresar a la República de Panamá, que posea Visa o Residencia vigente de los siguientes países: Canadá, Estados Unidos de América, Mancomunidad de Australia, República de Corea, Estado del Japón, Reino Unido de Gran Bretaña e Irlanda del Norte, República de Singapur y cualquiera de los Estados que conformen la Unión Europea.",
+        "notes": "As modified by Decreto Ejecutivo 196 (28 Oct 2024). The exemption applies to visa-required nationalities holding a valid visa/residence of Canada (among others)."
+      },
+      "notes": "Applies when entering as a non-resident tourist and the traveler would otherwise require a Panama visa; possession of a valid Canadian visa (or residence) satisfies the exemption. Standard tourist stay conditions apply."
+    },
+    {
+      "country": "MK",
+      "countryName": "North Macedonia",
+      "region": "europe",
+      "conditions": "Holders of valid travel documents of third countries who hold a valid multiple-entry Canadian visa may enter North Macedonia without a short-stay visa (visa C) for up to 15 days per entry, within the limits of the temporary decision.",
+      "maxStayDays": 15,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-vlez-vo-rsm",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "Ministry of Foreign Affairs of North Macedonia > Consular Services > Visa requirements for entering the Republic of North Macedonia",
+        "exactQuote": "The Decision on the temporary abolition of short-term stay visas (visa C) in the Republic of North Macedonia has been adopted for foreign citizens holding valid travel documents of third countries who hold a valid multiple-entry British, American or Canadian visa, inserted in the passport, whereby the length of their stay in the Republic of North Macedonia should be up to 15 days, and the validity of the valid multiple-entry British, American and Canadian visa, inserted in the passport should be 5 days longer than the planned stay in the Republic of North Macedonia. The Decision is of a temporary character and is valid from 1 January 2026 to 31 December 2026",
+        "maximumStayQuote": "up to 15 days",
+        "notes": "Temporary decision valid 1 Jan 2026 - 31 Dec 2026; requires valid multiple-entry Canadian visa inserted in passport and visa validity at least 5 days longer than planned stay."
+      },
+      "notes": "Applies to third-country nationals otherwise requiring a visa; the Canadian visa must be multiple-entry and valid for at least 5 days beyond planned stay in North Macedonia."
     }
   ]
 }
