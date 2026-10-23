@@ -14,7 +14,8 @@
     "description": "Valid UK visa allows visa-free or simplified access to additional countries beyond passport privileges"
   },
   "lastUpdated": "2026-03-10",
-  "totalUnlocked": 35,
+  "totalUnlocked": 40,
+  "lastUpdated": "2026-10-23",
   "unlocks": [
     {
       "country": "AL",
@@ -530,6 +531,111 @@
         "notes": "Current government page retrieved with HTTP 200 on the access date; its own last-updated assertion is 9 May 2025. The canonical link uses /coming-to-visit-ireland/short-stay-visa-waiver-programme/."
       },
       "notes": "90 days is only the maximum ceiling: permitted stay is the lesser of 90 days and remaining UK permission, subject to admission. This is the Short-Stay Visa Waiver Programme, not the separate British-Irish Visa Scheme. Ghana and other passport countries absent from the eligibility list are not covered. Ukrainian nationals, and holders of Hong Kong or Macau passports, are noted by the source as already Irish-visa-exempt independently and are not counted here as gaining an additional entitlement from a UK visa. No work, study or residence permission is established by this visitor exemption."
+    },
+    {
+      "country": "GD",
+      "countryName": "Grenada",
+      "region": "caribbean",
+      "conditions": "Holders of a valid UK passport (British citizens) do not require a visa for Grenada.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "GOV.UK Foreign travel advice > Grenada > Entry requirements > Visa requirements",
+        "exactQuote": "You can visit Grenada without a visa. On entry, you’ll be allowed to stay for a maximum period of 3 months.",
+        "maximumStayQuote": "maximum period of 3 months",
+        "notes": "Applies to British citizens travelling on a full British citizen passport as per GOV.UK guidance."
+      },
+      "notes": "Visa-free for British citizens (up to 3 months). Other passport holders should check separately; this entry reflects UK passport/visa-holder privilege context as per Diaspora model for UK-visa document."
+    },
+    {
+      "country": "LC",
+      "countryName": "Saint Lucia",
+      "region": "caribbean",
+      "conditions": "Holders of a valid UK passport do not require a visa for Saint Lucia.",
+      "maxStayDays": 42,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.uk/foreign-travel-advice/st-lucia/entry-requirements",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "GOV.UK Foreign travel advice > St Lucia > Entry requirements > Visa requirements",
+        "exactQuote": "You can visit St Lucia without a visa. On entry, you’ll be allowed to stay for a maximum period of 6 weeks.",
+        "maximumStayQuote": "maximum period of 6 weeks",
+        "notes": "British citizens do not require a visa; stay up to 6 weeks."
+      },
+      "notes": "Visa-free for UK passport holders up to 6 weeks."
+    },
+    {
+      "country": "VC",
+      "countryName": "Saint Vincent and the Grenadines",
+      "region": "caribbean",
+      "conditions": "Holders of a valid UK passport do not require a visa for St Vincent and the Grenadines.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "GOV.UK Foreign travel advice > St Vincent and the Grenadines > Entry requirements > Visa requirements",
+        "exactQuote": "You can visit St Vincent and the Grenadines without a visa. On entry, you’ll be allowed to stay for a maximum period of 6 months.",
+        "maximumStayQuote": "maximum period of 6 months",
+        "notes": "British citizens do not require a visa; stay up to 6 months."
+      },
+      "notes": "Visa-free for UK passport holders up to 6 months."
+    },
+    {
+      "country": "DM",
+      "countryName": "Dominica",
+      "region": "caribbean",
+      "conditions": "Holders of a valid UK passport do not require a visa for Dominica.",
+      "maxStayDays": 180,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "GOV.UK Foreign travel advice > Dominica > Entry requirements > Visa requirements",
+        "exactQuote": "You can visit Dominica without a visa. On entry, you’ll be allowed to stay for a maximum period of 6 months.",
+        "maximumStayQuote": "maximum period of 6 months",
+        "notes": "British citizens do not require a visa; stay up to 6 months."
+      },
+      "notes": "Visa-free for UK passport holders up to 6 months."
+    },
+    {
+      "country": "KN",
+      "countryName": "Saint Kitts and Nevis",
+      "region": "caribbean",
+      "conditions": "Holders of a valid UK passport do not require a visa for St Kitts and Nevis.",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "evisaRequired": false,
+      "lastUpdated": "2026-10-23",
+      "source": {
+        "url": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis/entry-requirements",
+        "governmentDomain": true,
+        "accessedDate": "2026-10-23",
+        "confidence": "verified",
+        "verificationPath": "GOV.UK Foreign travel advice > St Kitts and Nevis > Entry requirements > Visa requirements",
+        "exactQuote": "You can visit St Kitts and Nevis without a visa. On entry, you’ll be allowed to stay for a maximum period of 6 months.",
+        "maximumStayQuote": "maximum period of 6 months",
+        "notes": "British citizens do not require a visa; stay up to 6 months."
+      },
+      "notes": "Visa-free for UK passport holders up to 6 months."
     }
   ]
 }
